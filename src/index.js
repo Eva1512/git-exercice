@@ -1,3 +1,4 @@
+
 console.log('salut !')
 
 function hello() {
@@ -5,6 +6,7 @@ function hello() {
 }
 
 hello();
+
 function addFactory(valueToAdd) {
     return function (value) {
         return valueToAdd + value;
